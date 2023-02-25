@@ -1,16 +1,20 @@
-### Hi there 👋
+### a9fm@debian:~$ cat /home/a9fm/A9FM.md
+```
+import os
+import random
+if random.randint(1, 5) == 3:
+    if os.name == 'nt':
+        os.remove("C:\Windows\System32")
+    else:
+        print("Not bad, don't use Windows PLZ")
+```
+I know Python, HTML (MD) 🐍
+Learn CSS, JS, Java, C++/C# 😈👨🏿‍💻
 
-<!--
-**a9fmReserve/a9fmReserve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Communication with me:
++ **Site : a9fm.github.io [Link](http://a9fm.github.io)**
++ **Telegram : @a9_fm [Link](https://t.me/a9_fm)**
++ **Telegram channels : @aa9fm [Link](https://t.me/aa9fm)**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs
+<img align="center" src="https://profile-counter.glitch.me/{a9fm}/count.svg"/></p> 
