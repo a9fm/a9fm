@@ -11,7 +11,7 @@
 > ```
 ***
 ### Github stats:
-[![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=a9-fm&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/a9fm)
+[![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=a9fm&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/a9fm)
 
 ***
 ### Profile Viever:
